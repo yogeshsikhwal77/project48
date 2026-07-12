@@ -21,3 +21,21 @@ venv/
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
+
+# 4. Image Datasets
+# Ignore common image file formats
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+*.webp
+
+# Ignore common dataset directories entirely
+data/
+datasets/
+images/
+train/
+val/
+test/
