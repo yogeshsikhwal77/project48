@@ -257,7 +257,9 @@ Then open any `Day_XX` notebook in Jupyter or Colab and follow along.
 
 ## 📄 License
 
-No license specified yet — add one (e.g. MIT) if you'd like others to reuse this code.
+This project is licensed under the **MIT License** — you're free to use, copy, and learn from this code (with attribution).
+
+> 🔒 **Note:** This repository itself is not open for direct edits. Only the author can push changes to `project48`. Anyone is welcome to fork it or copy the code to their own machine and modify their own copy freely.
 
 ---
 
